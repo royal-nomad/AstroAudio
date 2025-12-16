@@ -1,0 +1,7 @@
+{
+  "name": "AstroAudio Theory Assistant",
+  "description": "An AI-powered music theory assistant for DAW/DAWless setups with MIDI customization and real-time voice interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
